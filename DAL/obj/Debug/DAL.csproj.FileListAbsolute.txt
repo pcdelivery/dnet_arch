@@ -54,3 +54,15 @@ D:\Users\dan\Desktop\New folder (3)\QuestRoom-master\DAL\obj\Debug\DAL.csproj.Co
 D:\Users\dan\Desktop\New folder (3)\QuestRoom-master\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\Users\dan\Desktop\New folder (3)\QuestRoom-master\DAL\obj\Debug\DAL.dll
 D:\Users\dan\Desktop\New folder (3)\QuestRoom-master\DAL\obj\Debug\DAL.pdb
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\bin\Debug\DAL.dll.config
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\bin\Debug\DAL.dll
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\bin\Debug\DAL.pdb
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\bin\Debug\EntityFramework.dll
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\bin\Debug\EntityFramework.xml
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\obj\Debug\DAL.dll
+D:\Users\dan\Desktop\New folder (3)\QuestRoom\DAL\obj\Debug\DAL.pdb
