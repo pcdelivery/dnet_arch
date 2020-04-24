@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/Scripts/jquery-1.10.2.min.js")
+
+    @Scripts.Render("~/Scripts/bootstrap.min.js")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+
+
+    @RenderSection("Scripts", required: false)
+</head>
+
+<body>
+    @RenderBody()
+    <script type="text/javascript">
+        $(document).ready(
+            $(".link").click(function () {
+                var btn = $(this);
+                $.get(btn.data("link"), function (data) {
+                    $("#myModal").html(data);
+                    $("#myModal").modal();
+                });
+            }),
+            SetCalendar()
+        )
+    </script>
+</body>
+</html>
